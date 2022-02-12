@@ -1,0 +1,3 @@
+/home/brayan/Escritorio/HT1_ARCHIVOS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/brayan/Escritorio/HT1_ARCHIVOS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/brayan/Escritorio/HT1_ARCHIVOS/cmake-build-debug/CMakeFiles/HT1_ARCHIVOS.dir
